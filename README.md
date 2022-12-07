@@ -17,7 +17,6 @@ Build Naruto Hand Seals Recognition with Convolutional Neural Network YOLOX-Nano
 # Directory
 <pre>
 │  simple_demo.py
-│  Ninjutsu_demo.py
 │  
 ├─model
 │  └─yolox
